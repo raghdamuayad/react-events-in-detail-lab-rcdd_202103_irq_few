@@ -11,4 +11,3 @@ this.props.onReceiveCoordinates([event.clientX, event.clientY]);
 }
 
 export default CoordinatesButton;
-
